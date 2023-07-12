@@ -1,0 +1,53 @@
+body {
+    padding-top: 56px;
+}
+.navbar{
+    background-color: rgb(223, 199, 138);
+    height: 65px;
+}
+.navbar-brand{
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+  
+}.jumbotron {
+    background: url("image.jpg") no-repeat center;
+}
+.btn-primary {
+    background-color: #c60063;
+    border-color: #c60063;
+}
+.btn-secondary {
+    background-color: transparent;
+    border-color: #c60063;
+    color: #c60063;
+}
+
+
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.social-icons {
+    margin-top: 10px;
+}
+
+.social-icons a {
+    color: #fff;
+    display: inline-block;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.social-icons i {
+    font-size: 24px;
+}
+
+#map{
+    width: 100%;
+    height: auto;
+}
